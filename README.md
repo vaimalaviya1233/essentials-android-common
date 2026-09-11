@@ -11,7 +11,8 @@ A centralized knowledge base of architectural patterns and reusable UI component
     - [Welcome & Onboarding](ui/layout/welcome.md)
     - [Swipe Navigation Pattern](ui/layout/swipe-navigation.md)
     - [App Menu Shortcuts](ui/layout/app-menu-shortcuts.md)
-    - [Progressive Blur Implementation](ui/layout/progressive-blur.md)
+    - [Progressive Blur Implementation (AGSL)](ui/layout/progressive-blur.md)
+    - [Native Progressive Blur (Compose 1.13+)](ui/layout/native-progressive-blur.md)
     - [Liquid Ripple AGSL Shader](ui/layout/liquid-ripple.md)
   - **[Theming & AMOLED](ui/theme.md)**
   - **[components/](ui/components/)**: Reusable Material 3 components.
